@@ -1,0 +1,7 @@
+if(!isvalidlocation(player)){
+	change to other player
+	if(!isvalidlocation(otherplayer)){
+		endgame()
+	}
+}
+
